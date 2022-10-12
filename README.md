@@ -14,3 +14,7 @@ Make sure you copy the `javascript:` in the beginning.
 This BookMarklet will give you access to a panel to disable any extensions. (Aristole, Securly, GoGuardian, etc)
 Open the `Turn-Off-Extensions` file and **click raw** then select all on the new page with CTRL A and copy it into a bookmark.
 Load a new tab and go to Google.com and run the extension. **You will get an error** when you load it, if you load it one more time you will get access to any and all extensions in your chromebook.
+
+
+#Inspect Element and Console
+This BookMarklet will give you access to JavaScript console and Inspect Element, Simply paste the code into a bookmark's page and run it, you will be given an icon in the bottom right of your screen, click it and you will have access to it all!
