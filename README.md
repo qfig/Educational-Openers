@@ -24,3 +24,4 @@ This BookMarklet will give you access to JavaScript console and Inspect Element,
 
 [RadioTimes.com](https://radiotimes.com) - Cookie Clicker Cheats
 
+[School Cheats Youtube Channel](https://www.youtube.com/watch?v=6ea-ZNqLbAw) - Inspect Element and Console Cheat
