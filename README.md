@@ -17,4 +17,10 @@ Load a new tab and go to Google.com and run the extension. **You will get an err
 
 
 # Inspect Element and Console
-This BookMarklet will give you access to JavaScript console and Inspect Element, Simply open the `Inspect-Element-and-Console` file and **click raw** then select all on the new page with CTRL+A and copy it into a bookmark. Then load whatever you want to edit or cheat in like [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+This BookMarklet will give you access to JavaScript console and Inspect Element, Simply open the `Inspect-Element-and-Console` file and **click raw** then select all on the new page with CTRL+A and copy it into a bookmark. Then load whatever you want to edit or cheat in like [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) (Tip, you can find cheats for Cookie Clicker [Here](https://www.radiotimes.com/technology/gaming/cookie-clicker-cheats/)
+
+
+# Credit
+
+[RadioTimes.com](https://radiotimes.com) - Cookie Clicker Cheats
+
