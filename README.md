@@ -13,7 +13,7 @@ This BookMarklet will give you access to a panel to disable any extensions. (Ari
 Open the `Turn-Off-Extensions` file and **click raw** then select all on the new page with CTRL+A and copy it into a bookmark.
 Load a new tab and go to Google.com and run the extension. **You will get an error** when you load it, if you load it one more time you will get access to any and all extensions in your chromebook.
 
-## **Note: These will only unblock the extensions that are client side, anything server side like a firewall won't be stopped with these.**
+###### **Note: This will only unblock the extensions that are client side, anything server side like a firewall won't be stopped with these.**
 
 
 # Inspect Element and Console
