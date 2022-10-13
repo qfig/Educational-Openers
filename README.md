@@ -27,3 +27,5 @@ This BookMarklet will give you access to JavaScript console and Inspect Element,
 [School Cheats Youtube Channel](https://www.youtube.com/watch?v=6ea-ZNqLbAw) - Inspect Element and Console Cheat
 
 [Orteil](https://orteil.dashnet.org/cookieclicker) - For pioneering Clicker Games with Cookie Clicker
+
+[use-inspect.glitch.me](https://use-inspect.glitch.me/) - For document.designMode Cheat
