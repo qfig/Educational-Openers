@@ -17,4 +17,4 @@ Load a new tab and go to Google.com and run the extension. **You will get an err
 
 
 # Inspect Element and Console
-This BookMarklet will give you access to JavaScript console and Inspect Element, Simply paste the code into a bookmark's page and run it, you will be given an icon in the bottom right of your screen, click it and you will have access to it all!
+This BookMarklet will give you access to JavaScript console and Inspect Element, Simply open the `Inspect-Element-and-Console` file and **click raw** then select all on the new page with CTRL A and copy it into a bookmark.
